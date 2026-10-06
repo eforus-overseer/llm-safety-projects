@@ -27,7 +27,7 @@ The ideas also account for work already on my profile: [empathy-captcha](https:/
 ## Research and references
 
 - [OWASP GenAI Security Project](https://genai.owasp.org/) — current LLM and Agentic Application security guidance.
-- [NVIDIA garak](https://github.com/NVIDIA/garak), [promptfoo](https://github.com/promptfoo/promptfoo), [ProtectAI LLM Guard](https://github.com/protectai/llm-guard), [Microsoft PyRIT](https://github.com/Azure/PyRIT), and [Promptmap](https://github.com/utkusen/promptmap) — established tools informing the project boundaries.
+- [NVIDIA garak](https://github.com/NVIDIA/garak), [promptfoo](https://github.com/promptfoo/promptfoo), [ProtectAI LLM Guard](https://github.com/protectai/llm-guard), [Microsoft PyRIT](https://github.com/microsoft/PyRIT), and [Promptmap](https://github.com/utkusen/promptmap) — established tools informing the project boundaries.
 - [Star History](https://www.star-history.com/) — public charts for comparing GitHub star growth over time. Counts above are snapshots from the GitHub API, not Star History estimates.
 
 Every project is MIT-licensed and welcomes narrow pull requests from engineers, security practitioners, researchers, reviewers, designers, and technical writers. Start with its `README.md` and `CONTRIBUTING.md`.
