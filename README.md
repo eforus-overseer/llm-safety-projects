@@ -1,11 +1,12 @@
 # Open LLM Safety & Security Projects
 
-Eleven small, open-source project seeds for people who want to work on safer LLM applications and agents. Each repository has a scoped first milestone, contribution guide, security policy, and issue template. These are starting points for community collaboration, not finished products or claims of protection.
+Twelve open-source projects for people who want to work on safer LLM applications and agents. Each repository has a scoped milestone, contribution guide, security policy, and contributor tasks. Open Model Backdoor Lab includes a runnable offline toy benchmark; the original eleven repositories are project seeds. These are starting points for community collaboration.
 
-## The 11 project seeds
+## The projects
 
 | Project | Focus | Potential collaborators |
 |---|---|---|
+| [Open Model Backdoor Lab](https://github.com/eforus-overseer/open-model-backdoor-lab) | Compare behavioral backdoor detectors with clean controls, a harmless toy benchmark, and measurable detection limits. | model integrators, interpretability researchers, benchmark reviewers, and reproducibility contributors |
 | [Agent Injection Arena](https://github.com/eforus-overseer/agent-injection-arena) | A small, reproducible benchmark for indirect prompt injection in tool-using agents. | agent-framework builders, red-teamers, evaluators, and people who can review realistic but safely synthetic tasks |
 | [MCP Scope Map](https://github.com/eforus-overseer/mcp-scope-map) | Turn MCP tool catalogs into a readable permission and trust-boundary review. | MCP maintainers, security reviewers, UX designers, and contributors familiar with JSON Schema |
 | [RAG Poisoning Lab](https://github.com/eforus-overseer/rag-poisoning-lab) | Measure how a controlled, synthetic corpus edit changes retrieval and answers. | RAG developers, data provenance researchers, evaluation engineers, and technical writers |
