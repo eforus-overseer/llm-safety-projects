@@ -32,3 +32,11 @@ The ideas also account for work already on my profile: [empathy-captcha](https:/
 - [Star History](https://www.star-history.com/) — public charts for comparing GitHub star growth over time. Counts above are snapshots from the GitHub API, not Star History estimates.
 
 Every project is MIT-licensed and welcomes narrow pull requests from engineers, security practitioners, researchers, reviewers, designers, and technical writers. Start with its `README.md` and `CONTRIBUTING.md`.
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for llm-safety-projects](assets/pixel-art.svg)
+
+A small visual signature for this repository.
